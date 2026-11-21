@@ -28,10 +28,10 @@ It is intended to showcase:
 
 **Research Contributions**  
 - IEEE Conference Publication:  
-  *Foodereum: A Blockchain-based Authenticated Solution for Food Supply Chain*
+  *Foodereum: A Blockchain-based Authenticated Solution for Food Supply Chain* \n
   (https://doi.org/10.1109/NKCon56289.2022.10126555)  
 - IJEAT Journal Publication:  
-  *A Literature Review on Consortium Blockchain Consistency to Improve Traceability in Food Supply Chain System*
+  *A Literature Review on Consortium Blockchain Consistency to Improve Traceability in Food Supply Chain System* \n
   (http://www.doi.org/10.35940/ijeat.C3375.0211322)
 
 **Master’s (MS Cybersecurity – Capstone Project)**  
